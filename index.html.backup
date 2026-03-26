@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
+  <title>Black Fox Trading & Contracting - Premium Construction Services in Qatar</title>
+  <meta name="title" content="Black Fox Trading & Contracting - Civil Contractors Qatar">
+  <meta name="description" content="Black Fox Trading & Contracting is a Class A construction company in Qatar offering civil contracting, building construction, villa construction, MEP, and building strengthening services.">
+  <meta name="keywords" content="Black Fox, Construction Company Qatar, Civil Contractors, Building Construction, Villa Construction, MEP, Construction Services Doha, Infrastructure Works">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://blackfox.qa/">
+
+  <!-- Favicons -->
+  <link rel="icon" type="image/png" href="assets/images/favicon/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="assets/images/favicon/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="assets/images/favicon/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon/favicon.svg" />
+  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-title" content="Black Fox Trading">
+  <meta name="application-name" content="Black Fox Trading & Contracting">
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Windows Tile Color & Theme Color -->
+  <meta name="msapplication-TileColor" content="#1a1a1a">
+  <meta name="theme-color" content="#0f0f0f">
+  <meta name="color-scheme" content="dark light">
+
+  <!-- Open Graph / Facebook / WhatsApp / Telegram / LinkedIn -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://blackfox.qa/">
+  <meta property="og:title" content="Black Fox Trading & Contracting - Premium Construction Services">
+  <meta property="og:description" content="Class A construction company in Qatar. Civil contractors, building construction, villa construction, MEP, building strengthening. Bridging Vision With Reality.">
+  <meta property="og:image" content="https://blackfox.qa/assets/images/preview.jpg">
+  <meta property="og:image:secure_url" content="https://blackfox.qa/assets/images/preview.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Black Fox Trading & Contracting - Premium Construction Services Qatar">
+  <meta property="og:site_name" content="Black Fox Trading & Contracting">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Author / Article Info -->
+  <meta name="author" content="Black Fox Trading & Contracting">
+  <meta property="article:author" content="https://www.linkedin.com/company/blackfox-trading-and-contracting">
+  <meta property="article:published_time" content="2025-07-10T00:00:00+05:30">
+
+  <!-- Pinterest -->
+  <meta name="pinterest-rich-pin" content="true">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Black Fox Trading & Contracting - Premium Construction Services">
+  <meta name="twitter:description" content="Class A construction company in Qatar. Civil contractors, building construction, villa construction, MEP, and infrastructure works.">
+  <meta name="twitter:image" content="assets/images/preview.jpg">
+
+  <!-- Preload critical resources -->
+  <link rel="preload" as="image" href="assets/images/anuswar-rao-profile-photo.webp">
+  <link rel="preload" as="font" href="libraries/google-font/Nunito-Regular.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="libraries/google-font/Nunito-SemiBold.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="libraries/google-font/Nunito-ExtraBold.woff2" type="font/woff2" crossorigin>
+
+  <!-- Animate Library (CSS) -->
+  <link rel="stylesheet" href="libraries/animate.min.css" />
+
+  <!-- Google Fonts Library (CSS) -->
+  <link rel="stylesheet" href="libraries/google-font/font.css">
+
+  <!-- Toast Notifications Library (CSS) -->
+  <link rel="stylesheet" type="text/css" href="libraries/toastify/toastify.min.css">
+
+  <!-- Main Styles (CSS) -->
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+
+  <!--=============== DARK MODE TOGGLE ===============-->
+  <header id="top">
+    <nav aria-label="Theme switcher">
+      <div id="dark-mode-toggle">
+        <button id="theme-toggle" aria-label="Toggle dark or light mode" title="Toggle dark/light mode">
+          <img id="theme-icon" class="icon icon-small" src="assets/images/icon/moon.svg" alt="" aria-hidden="true">
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <!--=============== MAIN CONTAINER ===============-->
+  <main class="main-container" role="main">
+
+    <!--=============== BIO SECTION ===============-->
+    <section class="head-section animate__animated animate__fadeInDown" aria-labelledby="profile-name">
+
+      <!-- Profile Photo -->
+      <div class="blob-center">
+        <figure class="blob-wrapper">
+          <img src="assets/images/anuswar-rao-profile-photo.webp" alt="Anuswar R Rao Profile Photo" class="blob-image animate__animated animate__fadeInLeft">
+          <figcaption class="visually-hidden">Anuswar R Rao</figcaption>
+        </figure>
+      </div>
+
+      <!-- Profile Name -->
+      <h1 id="profile-name" class="animate__animated animate__fadeInRight">Black Fox Trading & Contracting</h1>
+
+      <!-- Contact Buttons -->
+      <div class="button-container">
+
+        <!-- Phone Number Button -->
+        <a href="tel:+97431318151" class="number-btn" aria-label="Call Black Fox Trading & Contracting" title="Call Black Fox">
+          <img src="assets/images/icon/phone.svg" alt="Phone icon" class="icon icon-small">
+          +974 3131 8151
+        </a>
+
+        <!-- Mail Button -->
+        <a href="mailto:info@blackfox.qa" class="mail-btn" aria-label="Email Black Fox Trading & Contracting" title="Send email to Black Fox">
+          <img src="assets/images/icon/mail.svg" alt="Email icon" class="icon icon-small">
+        </a>
+
+        <!-- Share Button -->
+        <button class="share-btn share-trigger" data-link="https://blackfox.qa/" aria-label="Share Black Fox profile" title="Share profile link">
+          <img src="assets/images/icon/share.svg" alt="Share icon" class="icon icon-small" fetchpriority="high" decoding="async">
+        </button>
+      </div>
+
+      <!-- Description -->
+      <p class="lead animate__animated animate__fadeInUp">
+        Class A construction company in Qatar. Premium civil contracting, building construction, villa development, MEP installation, and infrastructure solutions. <strong>Bridging Vision With Reality</strong>
+      </p>
+    </section>
+
+    <!--=============== LINKS SECTION ===============-->
+    <section class="social-links animate__animated animate__fadeInUp" aria-labelledby="connect-heading">
+      <h2 id="connect-heading" class="visually-hidden">Connect with Black Fox</h2>
+      <ul>
+
+        <!-- Main Website -->
+        <li class="link-item animate__animated animate__bounceIn">
+          <div class="link-wrapper">
+            <a href="https://blackfox.qa/" target="_blank" rel="noopener" aria-label="Visit Black Fox Trading & Contracting website" title="Main Website">
+              <img src="assets/images/icon/website.svg" class="icon icon-large" alt="Website Icon">
+
+              <div>
+                <h3>Main Website</h3>
+                <small>Explore our projects and services</small>
+              </div>
+            </a>
+
+            <button class="dots-btn share-trigger" type="button" data-link="https://blackfox.qa/" aria-label="Share website link" title="Share website link">
+              <img src="assets/images/icon/dots.svg" class="dots-img icon-large"  alt="" aria-hidden="true">
+            </button>
+          </div>
+        </li>
+
+        <!-- Facebook -->
+        <li class="link-item animate__animated animate__bounceIn">
+          <div class="link-wrapper">
+            <a href="https://facebook.com/people/Blackfox-Trading/61580649975264/" target="_blank" rel="noopener" aria-label="Visit Facebook page of Black Fox Trading & Contracting" title="Facebook">
+              <img src="assets/images/icon/facebook.svg" class="icon icon-large" alt="Facebook Icon">
+
+              <div>
+                <h3>Facebook</h3>
+                <small>Follow us on Facebook</small>
+              </div>
+            </a>
+
+            <button class="dots-btn share-trigger" type="button" data-link="https://facebook.com/people/Blackfox-Trading/61580649975264/" aria-label="Share Facebook link" title="Share Facebook link">
+              <img src="assets/images/icon/dots.svg" class="dots-img icon-large"  alt="" aria-hidden="true">
+            </button>
+          </div>
+        </li>
+
+        <!-- Instagram -->
+        <li class="link-item animate__animated animate__bounceIn">
+          <div class="link-wrapper">
+            <a href="https://instagram.com/blackfox.qa" target="_blank" rel="noopener" aria-label="Visit Instagram profile of Black Fox" title="Instagram">
+              <img src="assets/images/icon/instagram.svg" class="icon icon-large" alt="Instagram Icon">
+
+              <div>
+                <h3>Instagram</h3>
+                <small>Follow our construction updates</small>
+              </div>
+            </a>
+
+            <button class="dots-btn share-trigger" type="button" data-link="https://instagram.com/blackfox.qa" aria-label="Share Instagram link" title="Share Instagram link">
+              <img src="assets/images/icon/dots.svg" class="dots-img icon-large"  alt="" aria-hidden="true">
+            </button>
+          </div>
+        </li>
+
+        <!-- LinkedIn -->
+        <li class="link-item animate__animated animate__bounceIn">
+          <div class="link-wrapper">
+            <a href="https://linkedin.com/company/blackfox-trading-and-contracting" target="_blank" rel="noopener" aria-label="Visit LinkedIn profile of Black Fox Trading & Contracting" title="LinkedIn">
+              <img src="assets/images/icon/linkedin.svg" class="icon icon-large" alt="LinkedIn Icon">
+
+              <div>
+                <h3>LinkedIn</h3>
+                <small>Connect with us professionally</small>
+              </div>
+            </a>
+
+            <button class="dots-btn share-trigger" type="button" data-link="https://linkedin.com/company/blackfox-trading-and-contracting" aria-label="Share LinkedIn link" title="Share LinkedIn link">
+              <img src="assets/images/icon/dots.svg" class="dots-img icon-large"  alt="" aria-hidden="true">
+            </button>
+          </div>
+        </li>
+
+        <!-- Services -->
+        <li class="link-item animate__animated animate__bounceIn">
+          <div class="link-wrapper">
+            <a href="https://blackfox.qa/services" target="_blank" rel="noopener" aria-label="Explore Black Fox services" title="Our Services">
+              <img src="assets/images/icon/work.svg" class="icon icon-large" alt="Services Icon">
+
+              <div>
+                <h3>Our Services</h3>
+                <small>Civil Contracting • Building • MEP • Infrastructure</small>
+              </div>
+            </a>
+
+            <button class="dots-btn share-trigger" type="button" data-link="https://blackfox.qa/services" aria-label="Share services link" title="Share services link">
+              <img src="assets/images/icon/dots.svg" class="dots-img icon-large"  alt="" aria-hidden="true">
+            </button>
+          </div>
+        </li>
+
+        <!-- Projects Portfolio -->
+        <li class="link-item animate__animated animate__bounceIn">
+          <div class="link-wrapper">
+            <a href="https://blackfox.qa/projects" target="_blank" rel="noopener" aria-label="View Black Fox projects portfolio" title="Featured Projects">
+              <img src="assets/images/icon/folder.svg" class="icon icon-large" alt="Projects Icon">
+
+              <div>
+                <h3>Featured Projects</h3>
+                <small>See our completed works and portfolio</small>
+              </div>
+            </a>
+
+            <button class="dots-btn share-trigger" type="button" data-link="https://blackfox.qa/projects" aria-label="Share projects link" title="Share projects link">
+              <img src="assets/images/icon/dots.svg" class="dots-img icon-large"  alt="" aria-hidden="true">
+            </button>
+          </div>
+        </li>
+
+        <!-- Contact & Quote -->
+        <li class="link-item animate__animated animate__bounceIn">
+          <div class="link-wrapper">
+            <a href="https://blackfox.qa/contact" target="_blank" rel="noopener" aria-label="Get a free quote from Black Fox" title="Request Free Quote">
+              <img src="assets/images/icon/mail.svg" class="icon icon-large" alt="Contact Icon">
+
+              <div>
+                <h3>Request Free Quote</h3>
+                <small>Get your construction project quote today</small>
+              </div>
+            </a>
+
+            <button class="dots-btn share-trigger" type="button" data-link="https://blackfox.qa/contact" aria-label="Share contact link" title="Share contact link">
+              <img src="assets/images/icon/dots.svg" class="dots-img icon-large"  alt="" aria-hidden="true">
+            </button>
+          </div>
+        </li>
+
+        <!-- Location -->
+        <li class="link-item animate__animated animate__bounceIn">
+          <div class="link-wrapper">
+            <a href="https://maps.google.com/?q=720+Al+Wakra+Doha+Qatar" target="_blank" rel="noopener" aria-label="Find Black Fox location on Google Maps" title="Visit Us">
+              <img src="assets/images/icon/location.svg" class="icon icon-large" alt="Location Icon">
+
+              <div>
+                <h3>Visit Us</h3>
+                <small>720 Al Wakra, Doha - Qatar</small>
+              </div>
+            </a>
+
+            <button class="dots-btn share-trigger" type="button" data-link="https://maps.google.com/?q=720+Al+Wakra+Doha+Qatar" aria-label="Share location link" title="Share location link">
+              <img src="assets/images/icon/dots.svg" class="dots-img icon-large"  alt="" aria-hidden="true">
+            </button>
+          </div>
+        </li>
+
+      </ul>
+    </section>
+
+  </main>
+
+  <!--=============== SHARE POPUP ===============-->
+  <div id="shareOverlay" class="share-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="popupTitle" aria-describedby="popupDesc">
+
+    <div id="sharePopup" class="share-popup" role="document">
+
+      <!-- Close Button -->
+      <button id="closeSharePopup" class="close-btn" aria-label="Close share popup" title="Close">
+        <img src="assets/images/icon/close.svg" class="icon icon-small" alt="" aria-hidden="true" />
+      </button>
+
+      <!-- Popup Header -->
+      <div class="popup-header">
+        <h2 id="popupTitle" class="popup-title">Share Link</h2>
+        <p id="popupDesc" class="popup-subtitle">
+          Scan QR code or use the buttons below
+        </p>
+      </div>
+
+      <!-- QR Code Container -->
+      <div class="qr-container">
+        <div id="qrContainer" class="qr-image loading" aria-busy="true" aria-label="QR Code area">
+          <div style="color: rgba(0, 0, 0, 0.4);">Generating QR Code...</div>
+        </div>
+      </div>
+
+      <!-- Share Action Buttons -->
+      <div class="share-actions">
+
+        <button id="shareBtn" aria-label="Share this link" title="Share this link">
+          <img src="assets/images/icon/share.svg" class="icon icon-large" alt="" aria-hidden="true" />
+        </button>
+
+        <button id="copyBtn" class="clipboard-btn" aria-label="Copy link to clipboard" title="Copy link" data-clipboard-text="">
+          <img src="assets/images/icon/copy.svg" class="icon icon-large" alt="" aria-hidden="true" />
+        </button>
+
+        <button id="downloadBtn" aria-label="Download QR code" title="Download QR code">
+          <img src="assets/images/icon/download.svg" class="icon icon-large" alt="" aria-hidden="true" />
+        </button>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- QR Code Generator Library (JS) -->
+  <script src="libraries/qrcode.min.js" defer></script>
+
+  <!-- Toast Notifications Library (JS) -->
+  <script src="libraries/toastify/toastify-js" defer></script>
+
+  <!-- Main Script (JS) -->
+  <script src="js/app.js" type="module" defer></script>
+</body>
+
+</html>
