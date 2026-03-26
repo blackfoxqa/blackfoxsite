@@ -3,8 +3,8 @@
  * Get free API key: https://resend.com/
  */
 
-const RESEND_API_KEY = 'YOUR_RESEND_API_KEY_HERE'; // Replace with actual key from https://resend.com/
-const COMPANY_EMAIL = 'info@blackfox.qa';
+const RESEND_API_KEY = 're_9j7qsUAp_4Q6mWQcbEi2iJGJuzQdFBwGx'; // Replace with actual key from https://resend.com/
+const COMPANY_EMAIL = 'blackfoxqatar@gmail.com';
 const COMPANY_NAME = 'Black Fox Trading & Contracting';
 
 export async function sendQuoteRequestEmail(formData) {
