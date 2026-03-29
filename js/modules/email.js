@@ -16,7 +16,7 @@ export async function sendQuoteRequestEmail(formData) {
     submitBtn.textContent = 'Sending...';
 
     // Validate API key
-    if (RESEND_API_KEY === 'YOUR_RESEND_API_KEY_HERE') {
+    if (RESEND_API_KEY === 're_9j7qsUAp_4Q6mWQcbEi2iJGJuzQdFBwGx') {
       throw new Error('Resend API key not configured. Please add your API key to the email service module.');
     }
 
